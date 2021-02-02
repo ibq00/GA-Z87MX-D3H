@@ -18,7 +18,6 @@
 # Hardware
 
 - MB [GA-Z87MX-D3H](Extra/Specification-GA-Z87MX-D3H.md) @ BIOS [F6 (of F7)](https://www.gigabyte.com/Motherboard/GA-Z87MX-D3H-rev-1x/support#support-dl-bios)
-- BIOS 支持M.2 NVME 协议SSD，走pcie x16 满速:3000/s
 - CPU [Intel Core i7-4770](https://ark.intel.com/content/www/us/en/ark/products/75122/intel-core-i7-4770-processor-8m-cache-up-to-3-90-ghz.html) 4C/8T @ 3.4 GHz
 - GPU 建议使用免驱显卡！无任何调整！直接插上即可使用
 - RAM 8 GB 1600 MHz DDR3 自己加
@@ -27,20 +26,7 @@
 推荐淘宝直接 FV-T919 bcm94360cd
 - Wi-Fi + Bluetooth `00:00:00:00:00:00`  **BCM43602** 802.11ac
 
-
-# [Kexts](./EFI/OC/Kexts/)
-
-- AppleALC
-- IntelMausi
-- Lilu
-- NVMeFix.kext
-- SMCProcessor
-- SMCSuperIO
-- VirtualSMC
-- USBInjectAll
-- WhateverGreen
-
----
+# 刷BIOS，支持M.2 NVME 协议SSD，走pcie x16 满速:3000/s
 
 技嘉z87mx d3h 刷第三方bios 完美支持nvme协议！
 /BIOS/Z87MXD3H.F7
