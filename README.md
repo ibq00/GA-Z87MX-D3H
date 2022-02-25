@@ -9,8 +9,8 @@
 
 
 https://github.com/walteweiss/Hackintosh-GA-Z87MX-D3H
-- OpenCore  0.6.9 也可以直接用这位大哥的
-- OpenCore编辑器2.42.0.0，oc引导需要对应版本的编辑器，用错可能会导致无法启动，
+- OpenCore  0.7.0 也可以直接用这位大哥的
+- OpenCore编辑器2.43.0.0，oc引导需要对应版本的编辑器，用错可能会导致无法启动，
 
 
 - MB [GA-Z87MX-D3H]
