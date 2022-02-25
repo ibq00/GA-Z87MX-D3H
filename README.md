@@ -24,5 +24,5 @@ https://github.com/walteweiss/Hackintosh-GA-Z87MX-D3H
 
 自己刷！u盘f32格式！进BIOS f8 升级
 
-
+就是委屈了显卡，显卡和nvmme硬盘二选一吧！你自己决定插x16还是x8，
 
